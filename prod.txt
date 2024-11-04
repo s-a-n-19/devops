@@ -1,9 +1,13 @@
 COMMANDS
 
-	git
-	git config --global user.name “s-a-n-19”
-	git config --global user.email “sahana.san1904@gmail.com”
-	git clone https://github.com/s-a-n-19/devops.git  
-	cd devops
-	ls  (show the file which is available on the particular drive)
-	create a new file
+-> git
+-> git config --global user.name “s-a-n-19”
+-> git config --global user.email “sahana.san1904@gmail.com”
+-> git clone https://github.com/s-a-n-19/devops.git  
+-> cd devops
+-> ls  (show the file which is available on the particular drive)
+-> create a new file using 
+-> git add prod.txt
+-> git add.
+-> git commit -m "first commit"
+-> git push origin main
