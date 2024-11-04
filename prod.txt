@@ -11,4 +11,12 @@ COMMANDS
 -> git add.
 -> git commit -m "first commit"
 -> git push origin main
+-> update changes in the github  and commit it
+-> use git pull origin main
+finished
+
+
+google meet code: vus-rebp-zrf
+
+
 
